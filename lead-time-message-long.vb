@@ -105,7 +105,7 @@ IF
 
 		                    ), #Level3 Closed   
 
-				"This item is in stock and ready to be picked up, shipped or delivered within 2 days. At time of purchase, please select pickup or delivery."  #All other In stock options
+				"This item is in stock and ready to be picked up or shipped. At time of purchase, please select pickup or delivery. After purchase, allow 3 business days for processing."  #All other In stock options
 		
 		              )#Level2 Closed	
 

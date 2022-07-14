@@ -68,7 +68,7 @@ IF
 	              		"Final Sale”
             	,					            #Level1 False 
 		
-			               "This item is in stock and ready to be picked up, shipped or delivered within 2 days."  		#Default	for all other status codes/not on sale  and lead time types not clearance or Floor model	
+			               "This item is in stock and ready to be picked up or shipped."  		#Default	for all other status codes/not on sale  and lead time types not clearance or Floor model	
 
 		     
 		)#Level1Closed
